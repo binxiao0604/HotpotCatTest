@@ -8,6 +8,7 @@
 import Foundation
 
 open class HPTest {
+    public init() {}
     open func hpTest() {
         print("Test XC Framework")
     }
